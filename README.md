@@ -1,8 +1,5 @@
 # Projeto Final - Testes Manuais
 
-## Aluno
-Cryslaine Gomes Pereira
-
 ## Descrição
 Este projeto final é um exercício prático do curso de Testes Manuais da MJV School. O objetivo é realizar uma análise de requisitos, criar cenários de teste em BDD, e coletar evidências dos testes realizados no site de e-commerce [Sauce Demo](https://www.saucedemo.com/).
 
